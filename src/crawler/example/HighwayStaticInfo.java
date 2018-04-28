@@ -12,7 +12,7 @@ public class HighwayStaticInfo {
 
 	public static void main(String[] args) {
 		
-		// 遠端資料路徑
+		// 遠端資料路徑78
 		/// test for BDSE07
 		String uri = "gz:http://tisvcloud.freeway.gov.tw/cms_value.xml.gz";
 
